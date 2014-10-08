@@ -176,7 +176,10 @@ a:visited { color: #a0a; }
 }
 
 @media screen and (max-width: 959px) {
-  width: 100%;
+  .container {
+    width: 100%;
+  }
+  
 }
 
 .container-fluid {
